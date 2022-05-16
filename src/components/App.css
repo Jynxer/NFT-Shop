@@ -1,1 +1,4 @@
 /* Styles go here */
+a.image-container img {
+  width: 100%;
+}
